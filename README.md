@@ -1,3 +1,3 @@
 # phantomExpressoProtoType
 
-This Code is meant to be the prototype for a planned debugger. It is published for presentational purposes only. Please read the wiki for more deatails.
+This Code is meant to be the prototype for a planned debugger for the programming language HAXE. It is published for presentational purposes only. Please read the wiki for more deatails.
