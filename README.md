@@ -16,9 +16,16 @@ To work with the prototype:
 Download and unpack the library
   _phantomExpressionist.zip_	
 
-Copy the unpacked folder into your haxeTools/haxe/lib/  
+Copy the unpacked folder into your local folder _haxeTools/haxe/lib/_  
 
 Download and unpack the prototype experimental code
-	phantomExpressionistDevelopmentProj.zip
+	_phantomExpressionistDevelopmentProj.zip_
 	
-This is your haxe project you can compile to see how the library prototype works.
+This is your haxe project you can compile to see how the library prototype works. Of cause, you can 
+use any other software code you want to be identified. For that purpuse you can copy and modify
+the _cpp.hxml_ file to make if fit your needs. I have commented it, so you know what it is good for.
+
+Have fun!
+
+Kind regards
+Arnim
