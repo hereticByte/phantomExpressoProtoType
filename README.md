@@ -27,5 +27,5 @@ the _cpp.hxml_ file to make if fit your needs. I have commented it, so you know 
 
 Have fun!
 
-Kind regards
+Kind regards  
 Arnim
