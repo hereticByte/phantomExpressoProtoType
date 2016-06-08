@@ -14,7 +14,7 @@ To work with the prototype:
 
 
 Download and unpack the library
-  phantomExpressionist.zip 	
+  _phantomExpressionist.zip_	
 
 Copy the unpacked folder into your haxeTools/haxe/lib/  
 
